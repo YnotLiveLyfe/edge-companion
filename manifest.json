@@ -1,0 +1,10 @@
+{
+  "id": "edge-companion",
+  "name": "XENEON EDGE Companion",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Serves the ObsidianEdge widget on the Corsair XENEON EDGE: the open note, its outline, vault changes and editor actions, over a loopback-only HTTP port.",
+  "author": "Pathfinder Prototyping",
+  "authorUrl": "https://pathfinderprototyping.com",
+  "isDesktopOnly": true
+}
